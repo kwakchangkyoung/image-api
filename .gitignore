@@ -1,0 +1,13 @@
+# Local image storage
+images/
+tmp/
+
+# Environment
+.env
+
+# Go build artifacts
+image_api
+*.exe
+
+# OS
+.DS_Store
